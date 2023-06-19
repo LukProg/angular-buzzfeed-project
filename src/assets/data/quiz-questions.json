@@ -1,0 +1,71 @@
+{
+  "title": "Which Hogwarts House Do You Belong To?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which quality do you value the most?",
+      "options": [
+        {"id": 1, "name": "Bravery", "alias": "A"},
+        {"id": 2, "name": "Intelligence", "alias": "B"},
+        {"id": 3, "name": "Loyalty", "alias": "C"},
+        {"id": 4, "name": "Ambition", "alias": "D"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which magical creature fascinates you the most?",
+      "options": [
+        {"id": 1, "name": "Dragon", "alias": "A"},
+        {"id": 2, "name": "Phoenix", "alias": "B"},
+        {"id": 3, "name": "Hippogriff", "alias": "C"},
+        {"id": 4, "name": "Basilisk", "alias": "D"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which Hogwarts subject would you excel at?",
+      "options": [
+        {"id": 1, "name": "Defense Against the Dark Arts", "alias": "A"},
+        {"id": 2, "name": "Transfiguration", "alias": "B"},
+        {"id": 3, "name": "Herbology", "alias": "C"},
+        {"id": 4, "name": "Potions", "alias": "D"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which trait do you admire the most in others?",
+      "options": [
+        {"id": 1, "name": "Courage", "alias": "A"},
+        {"id": 2, "name": "Wisdom", "alias": "B"},
+        {"id": 3, "name": "Kindness", "alias": "C"},
+        {"id": 4, "name": "Resourcefulness", "alias": "D"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which magical artifact would you choose?",
+      "options": [
+        {"id": 1, "name": "Sword of Gryffindor", "alias": "A"},
+        {"id": 2, "name": "Ravenclaw's Diadem", "alias": "B"},
+        {"id": 3, "name": "Hufflepuff's Cup", "alias": "C"},
+        {"id": 4, "name": "Slytherin's Locket", "alias": "D"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which spell would you use in a duel?",
+      "options": [
+        {"id": 1, "name": "Expelliarmus", "alias": "A"},
+        {"id": 2, "name": "Expecto Patronum", "alias": "B"},
+        {"id": 3, "name": "Lumos", "alias": "C"},
+        {"id": 4, "name": "Avada Kedavra", "alias": "D"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "You belong to Gryffindor! You're brave and courageous.",
+    "B": "You belong to Ravenclaw! You're intelligent and wise.",
+    "C": "You belong to Hufflepuff! You're loyal and kind.",
+    "D": "You belong to Slytherin! You're ambitious and resourceful."
+  }
+}
